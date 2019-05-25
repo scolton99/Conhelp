@@ -1,0 +1,13 @@
+{
+  "database": "MySQL",
+  "db_properties": {
+    "username": "scolton",
+    "password": "$fcrapr3qrfxgbc14",
+    "host": "localhost",
+    "port": 3306,
+    "database": "conhelp"
+  },
+  "app_root": "/var/www/html/conhelp",
+  "rel_app_root": "/conhelp",
+  "site_domain": "10.105.75.39"
+}
